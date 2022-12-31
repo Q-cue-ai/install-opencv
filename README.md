@@ -7,4 +7,4 @@ This repo holds:
 ## Usage
 1. Download the required tar.gz file from the Releases section
 2. Download the install_opencv.sh script
-3. Run the script: `sudo install_opencv.sh <path_to_tar_gz_file>  
+3. Run the script: `sudo bash -e install_opencv.sh <path_to_tar_gz_file>  
