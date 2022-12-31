@@ -2,7 +2,7 @@
 This repo holds:
 1. Compilation and installation scripts for OpenCV
 2. Installation script to install OpenCV from a tar.gz file
-3. Precompiled OpenCV tar.gz files for MacOS ARM64 and Ubuntu 20.04 x86_64
+3. Precompiled OpenCV tar.gz files for MacOS ARM64, Ubuntu 20.04 x86_64 and Ubuntu 20.04 x86_64 (for Jetson L4T-35.1.0)
 
 ## Usage
 1. Download the required tar.gz file from the Releases section
